@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import pprint
 import random
-
+import weahter
 
 def sayNum():
     num = int(random.uniform(1, 10))
@@ -39,11 +39,6 @@ print l[1:-1]
 
 print ';'.join(['apple', 'pear', 'orange'])
 
-f = file('data.txt')
-data = f.readlines()
-print data
-f.close()
-
 f = file("a.txt")
 lines = f.readlines()
 f.close()
@@ -72,3 +67,5 @@ f.close()
 sourceinfos = {'萧峰': 95, '段誉': 97, '虚竹': 89}
 
 print sourceinfos['虚竹']
+
+weahter.openurl('http://www.baidu.com')
