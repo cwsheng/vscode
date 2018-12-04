@@ -1,0 +1,11 @@
+f:\cwsheng\C.VsCode\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.deps.json
+f:\cwsheng\C.VsCode\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.json
+f:\cwsheng\C.VsCode\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.dev.json
+f:\cwsheng\C.VsCode\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.dll
+f:\cwsheng\C.VsCode\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.pdb
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csprojAssemblyReference.cache
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csproj.CoreCompileInputs.cache
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfoInputs.cache
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfo.cs
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.dll
+f:\cwsheng\C.VsCode\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.pdb
