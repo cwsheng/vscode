@@ -1,9 +1,0 @@
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\bin\Debug\netstandard2.0\DapperTools.deps.json
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\bin\Debug\netstandard2.0\DapperTools.dll
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\bin\Debug\netstandard2.0\DapperTools.pdb
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.csprojAssemblyReference.cache
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.csproj.CoreCompileInputs.cache
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.AssemblyInfoInputs.cache
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.AssemblyInfo.cs
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.dll
-f:\cwsheng\C.VsCode\SampleWeb\DapperTools\obj\Debug\netstandard2.0\DapperTools.pdb
